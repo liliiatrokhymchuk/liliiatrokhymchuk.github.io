@@ -42,6 +42,3 @@ result = con.sql("SELECT * FROM test WHERE i > 50").show()
 #Close the connection
 con.close()
 ```
-
-
-
